@@ -10,6 +10,11 @@
 
 int main(int argc, char *argv[])
 {
+    QGuiApplication app (int argc, char *[]);
+    FelgoApplication felgo ;
+
+    QQmlApplicationEngine engine;
+    felgo.initialize
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 
     QGuiApplication app(argc, argv);
