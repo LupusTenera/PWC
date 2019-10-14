@@ -4,6 +4,9 @@
 #include <QtQml/QQmlApplicationEngine>
 #else
 #endif
+#include <QGuiApplication>
+#include <QQmlApplicationEngine>
+#include <FelgoApplication>
 
 int main(int argc, char *argv[])
 {
