@@ -10,4 +10,6 @@ So I will create the basic nodes with Json and regulate the processes with C++.
 I am further planning to work this week at the front end.
 
 Currently I am working to implement Felgo.
-When I am finished I will work on Google firebase
+When I am finished I will work on Google firebase.
+
+I configured Felgo for iOs although I am searching for a way to make it also compatible with android.
