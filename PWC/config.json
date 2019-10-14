@@ -1,7 +1,12 @@
 .pragma library
 
 function func() {
-"Title : Felgo App"
+"Title : Felgo App",
+"identifier": "net.vplay.demoapp",
+"orientation":"auto",
+"versioncode": 1,
+"versionname" : "1",
+"stage" : "test"
 
 
 }
