@@ -22,3 +22,5 @@ Although I might could do a sub part .
 So far I made already the data structure , overview of pointers (although I need to finish the list, paired almost each value to a pointer), overview of a database etc. 
 
 Doubting if I should just code the way I think it should be , waiting advice teacher/hearing that I need to do another assesment, thinking about an additional part for the app (which is smaller so more time realistic).
+
+P.S previous notes are at Trello , this is the method I use for project management beside GitHub.
