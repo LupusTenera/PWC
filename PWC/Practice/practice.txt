@@ -1,6 +1,6 @@
-#include <iosstream>
-#include 
-
+#include <iosstream> 
+#include "yagsbpl_base.h"
+#include "planners/A_star.h"
 namespace LanguageFeatures
 	
 Class Gebruiker { 
@@ -10,9 +10,11 @@ public:
 	{ return (Gebruiker==n.Gebruiker && wachtwoord==n.wachtwoord; )
 	};
 	
-	int getHashBin (n1& n)
-		{ return (((int))) fabs n.Gebruiker %200);}
-void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double> c)
+	int getHashBin(Gebruiker& n)
+	{ return abs(n.Gebruiker) % 200);}
+	
+	
+void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double>*c)
 	{
 		Gebruiker tn;
 		cout <<Gebruiker;
@@ -24,7 +26,8 @@ void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double> c)
 	}	
 }
 
-
+Gebruiker tn;
+for ()
 char*Gebruiker = new char;
 *Gebruiker = 50;
 delete Gebruiker ;
