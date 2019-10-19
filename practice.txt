@@ -1,0 +1,11 @@
+#include <iosstream>
+
+
+public 
+	void Get data () {
+		
+	}
+	
+};
+
+int main () {
