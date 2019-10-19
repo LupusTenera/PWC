@@ -1,11 +1,12 @@
 #include <iosstream>
 
-
-public 
-	void Get data () {
-		
-	}
+namespace LanguageFeatures
 	
-};
+int main () { 
+	char Gebruiker;
+	printf ("Voer uw gebruikersnaam in")
+		scanf ("&d,&n")
+	private varchar*Gebruiker; (char*) malloc (50 *size of (char));
 
-int main () {
+
+} 
