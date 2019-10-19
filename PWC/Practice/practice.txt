@@ -17,7 +17,8 @@ public:
 		
 	bool operator == (const n1& n)
 	{ return (Gebruiker==n.Gebruiker && wachtwoord==n.wachtwoord; )
-	};
+	}
+};
 	
 	int getHashBin(Gebruiker& n)
 	{ return abs(n.Gebruiker) % 200);}
@@ -25,23 +26,23 @@ public:
 };
 	
 	
-void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double>*c)
-	{
-		Gebruiker tn;
-		cout <<Gebruiker;
-		for 
-		printf ("Voer uw gebruikersnaam in")
-			scanf ("&d,&n")
-		private varchar*Gebruiker; (char*) malloc (50 *size of (char));
-		for (char Gebruiker = 50<n,i++)
-	}	
-}
-
-Gebruiker tn;
-for ()
-char*Gebruiker = new char;
-*Gebruiker = 50;
-delete Gebruiker ;
-Gebruiker = new char (50)
+///void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double>*c)
+//	{
+//		Gebruiker tn;
+//		cout <<Gebruiker;
+//				for 
+//		printf ("Voer uw gebruikersnaam in")
+//			scanf ("&d,&n")
+//		private varchar*Gebruiker; (char*) malloc (50 *size of (char));
+//		for (char Gebruiker = 50<n,i++)
+//	}	
+//}
+//
+//Gebruiker tn;
+//for ()
+//char*Gebruiker = new char;
+//*Gebruiker = 50;
+//delete Gebruiker ;
+//Gebruiker = new char (50)
 	
 
