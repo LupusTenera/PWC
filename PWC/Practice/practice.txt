@@ -1,0 +1,17 @@
+#include <iosstream>
+
+namespace LanguageFeatures
+	
+Class Gebruiker { 
+public:
+	char Gerbruiker;
+	printf ("Voer uw gebruikersnaam in")
+		scanf ("&d,&n")
+	private varchar*Gebruiker; (char*) malloc (50 *size of (char));
+	for (char Gebruiker = 50<n,i++)
+	{
+		
+	}
+
+
+} 
