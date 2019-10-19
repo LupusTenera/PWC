@@ -16,6 +16,9 @@ I configured Felgo for iOs although I am searching for a way to make it also com
 
 
 19-10-19
-Discussed 15-10 with the teacher from college that the assesment might be too big.
+Discussed 15-10 with the teacher from college that the assesment might be too time consuming for the period I have.
 Although I might could do a sub part .
 28-10 meeting with teacher.
+So far I made already the data structure , overview of pointers (although I need to finish the list, paired almost each value to a pointer), overview of a database etc. 
+
+Doubting if I should just code the way I think it should be , waiting advice teacher/hearing that I need to do another assesment, thinking about an additional part for the app (which is smaller so more time realistic).
