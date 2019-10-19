@@ -13,3 +13,9 @@ Currently I am working to implement Felgo.
 When I am finished I will work on Google firebase.
 
 I configured Felgo for iOs although I am searching for a way to make it also compatible with android.
+
+
+19-10-19
+Discussed 15-10 with the teacher from college that the assesment might be too big.
+Although I might could do a sub part .
+28-10 meeting with teacher.
