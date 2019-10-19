@@ -6,12 +6,23 @@ namespace LanguageFeatures
 Class Gebruiker { 
 public:
 	char Gerbruiker , wachtwoord;
+	Gebruiker 
+		for ()
+			char*gebruiker = new char;
+	delete gebruiker
+	Wachtwoord 
+		for ()
+			char*wachtwoord = new char;
+	delete wachtwoord
+		
 	bool operator == (const n1& n)
 	{ return (Gebruiker==n.Gebruiker && wachtwoord==n.wachtwoord; )
 	};
 	
 	int getHashBin(Gebruiker& n)
 	{ return abs(n.Gebruiker) % 200);}
+	
+};
 	
 	
 void getSuccessors (n1 n, std::vector<Gebruiker> * s, std::vector<double>*c)
